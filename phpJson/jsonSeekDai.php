@@ -367,4 +367,5 @@
 			return 'Dias: '.$dias. '  Hora: '.$tiempoHora. "(hh:mm:ss)";
 	}
 	/*prueba*/
+	/**PRUEBA 2 */
 ?>
